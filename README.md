@@ -1,3 +1,7 @@
+My Changes:
+- Config for Wanaho D6 + Bontech Extruder
+- Config increase aceptable thermal failtures 
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
