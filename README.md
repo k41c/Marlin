@@ -1,10 +1,11 @@
-My Changes:
+# My Changes:
 - Config for Wanaho D6 + Bontech Extruder
 - Config increase aceptable thermal failtures 
 
-# CONFIGFILE
+## CONFIGURATION.H
 - #define Y_BED_SIZE 200>190
 - #define DEFAULT_AXIS_STEPS_PER_UNIT{80.0395, 80.0395, 400.48, 99.1>415}
+## CONFIGURATION_ADV.H
 - #define THERMOCOUPLE_MAX_ERRORS 15>30
 - #define THERMAL_PROTECTION_PERIOD 60>90  
 
