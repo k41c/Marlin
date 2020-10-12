@@ -6,6 +6,7 @@ My Changes:
 - #define Y_BED_SIZE 200>190
 - #define DEFAULT_AXIS_STEPS_PER_UNIT{80.0395, 80.0395, 400.48, 99.1>415}
 - #define THERMOCOUPLE_MAX_ERRORS 15>30
+- #define THERMAL_PROTECTION_PERIOD 60>90  
 
 
 # Marlin 3D Printer Firmware
